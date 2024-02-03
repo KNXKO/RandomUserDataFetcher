@@ -20,4 +20,4 @@ This React app fetches random user data using the axios library from the [Random
 
 ## Screenshots
 
-![RandomUserDataFetcher](./Screenshots\SC_RandomUserDataFetcher.jpg)
+![RandomUserDataFetcher](Screenshots\SC_RandomUserDataFetcher.jpg)
