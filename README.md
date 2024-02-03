@@ -17,3 +17,7 @@ This React app fetches random user data using the axios library from the [Random
 - React
 - Next.js
 - Axios
+
+## Screenshots
+
+![RandomUserDataFetcher](./Screenshots\SC_RandomUserDataFetcher.jpg)
